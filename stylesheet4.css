@@ -1,0 +1,40 @@
+div {
+	border-radius: 5px;
+}
+#left {
+	position:left;
+	width:25%;
+	margin-top:-20px;
+	height:50px;
+	background-color:green;
+	margin-bottom:10px;
+	float:left;
+}
+#right {
+	position:right;
+	width:10%;
+	margin-top: :-20px;
+	height:50px;
+	background-color: blue;
+	margin-bottom: 10px;
+	margin-left: 30px;
+	margin-right: 10px;
+	float: right;
+}
+#center {
+	position: center;
+	width:50%;
+	margin-top: 100px;
+	height:70px;
+	background-color: black;
+	margin-bottom: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+#bottom {
+	position:relative;
+	height:30px;
+	background-color: orange;
+	padding-top: 10px;
+
+}
