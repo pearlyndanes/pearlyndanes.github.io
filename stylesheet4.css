@@ -17,7 +17,7 @@ div {
 	margin-left: 5px;
 	padding-top: 5px;
 	font-size: 30px;
-	font-family: cursive;, sans-serif;
+	font-family:Verdana, sans-serif;
 	color: #800080;
 }
 
@@ -26,11 +26,11 @@ div {
 	margin-right: 5px;
 	padding-top: 5px;
 	font-size: 16px;
-	font-family: cursive;, sans-serif;
+	font-family: Verdana, sans-serif;
 	color: #800080;
 }
 img {
-	height: 60px;
+	height: 80px;
 	float: left;
 	width: 50px;
 	margin-bottom:10px;  
@@ -39,14 +39,14 @@ img {
 h4 {
 	margin-left: 5px;
 	margin-bottom: 15px;
-	font-family: Courier, sans-serif;
+	font-family: Verdana, sans-serif;
 }
 
 .right p {
 	margin-left: 5px;
 	margin-right: 5px;
 	margin-top: -10px;
-	font-family: Garamond, serif;
+	font-family: Verdana, serif;
 	color: #000000;
 }
 
