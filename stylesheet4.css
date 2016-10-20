@@ -7,7 +7,7 @@ div {
 	position: fixed;
 	width: 97.5%;
 	margin-top: -20px;
-	height: 80px;
+	height: 100px;
 	background-image:url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqGMk27k_MCdU0jlLIR0qkQoUkUIe2K9nGr1yMv5jY9oIYroFb);
 	margin-bottom: 10px;
 }
@@ -32,7 +32,7 @@ div {
 img {
 	height: 80px;
 	float: left;
-	width: 50px;
+	width: 100px;
 	margin-bottom:10px;  
 }
 
