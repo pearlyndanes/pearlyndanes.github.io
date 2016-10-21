@@ -1,0 +1,56 @@
+
+.input[type=text] {
+    width: 100px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+/* When the input field gets focus, change its width to 100% */
+input[type=text]:focus {
+    width: 90%;
+}
+body{
+  background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTecGz7wOtFAcT1YBm1wkS_mKfS5fOGwpMwJvB8M1aMBSGVKg6GzQ");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+}
+div h1 {
+	font-family:Verdana;
+	font-style:normal;
+	font-size:40px;
+	font-weight:bold;
+	color:black;
+	margin:auto;
+	padding:50px 1px 50px 1px ;
+}
+
+div  h2 >
+p ,
+p {
+	font-family:Verdana;
+	font-style:normal;
+	font-size:20px;
+	font-weight:bold;
+	color:red;
+	margin:auto;
+    padding:10px 1px 80px 1px;
+}
+div h2 {
+    font-family:Verdana;
+	font-style:normal;
+	font-size:20px;
+	font-weight:bold;
+	color:blue;
+	margin:auto;
+    padding:30px 1px 10px 1px;
+}
+div > div > a {
+	font-family:Verdana;
+	font-style:normal;
+	font-size:20px;
+	font-weight:bold;
+	color:black;
+	margin:auto;
+	padding:50px 1px 50px 1px ;
+}
