@@ -8,6 +8,7 @@
 /* When the input field gets focus, change its width to 100% */
 input[type=text]:focus {
     width: 90%;
+	text-align:center;
 }
 body{
 	background-image:url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTecGz7wOtFAcT1YBm1wkS_mKfS5fOGwpMwJvB8M1aMBSGVKg6GzQ");
@@ -28,6 +29,7 @@ div h3 {
 	font-weight:bold;
     color: black ;
     padding:40px;
+	text-align:center;
 }
 div p {
     color: blue;
