@@ -6,6 +6,8 @@ body {
     width: 100px;
     -webkit-transition: width 0.4s ease-in-out;
     transition: width 0.4s ease-in-out;
+	margin:auto;
+	display:block;
 }
 
 /* When the input field gets focus, change its width to 100% */
@@ -43,6 +45,8 @@ div p {
     font-weight:bold;
     font-family:Verdana;
     padding:50px;
+	margin:auto;
+	display:block;
 }
 
 div > button {
