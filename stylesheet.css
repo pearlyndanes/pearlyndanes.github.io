@@ -2,15 +2,12 @@
     width: 100px;
     -webkit-transition: width 0.4s ease-in-out;
     transition: width 0.4s ease-in-out;
-	 position: absolute;
-    right: 0px;
-    width:auto;
 }
 
 /* When the input field gets focus, change its width to 100% */
 input[type=text]:focus {
     width: 90%;
-	text-align:center;
+	
 }
 body{
 	background-image:url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTecGz7wOtFAcT1YBm1wkS_mKfS5fOGwpMwJvB8M1aMBSGVKg6GzQ");
@@ -21,7 +18,9 @@ body{
 }
 div span {
 	padding:50px 0px 30px 0px;
-
+ position: absolute;
+    right: 0px;
+    width:auto;
 }
 
 div h3 {
